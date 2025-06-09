@@ -2,7 +2,7 @@
 # Neural Networks and Deep Learnin 
 Student Name**: Sharath chandra Seriyala 
 
-University**: University of Central Missouri  
+ University of Central Missouri  
 
 Assignment**: Home Assignment 2 (Chapters 5 & 6)  
 
